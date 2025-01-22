@@ -2,27 +2,27 @@
 
 PROJECT NAME: onPAR
 
-HOW DOES onPAR WORK?
+## HOW DOES onPAR WORK?
 This project allows users to track the status of schools affected by a disaster, 
 including displaced students, required resources, and budget allocation for 
 rebuilding efforts.
 
-REQUIERMENTS:
+## REQUIREMENTS:
 Python 3.7+
 Streamlit
 Pandas
 Folium
 Streamlit-Folium
 
-INSTALLING GUIDE:
+## INSTALLING GUIDE:
 run the following command: pip install streamlit pandas folium streamlit-folium
 
-RUNNING THE APP:
+## RUNNING THE APP:
 1. Clone the repository or download the script.
 2. Open a terminal and navigate to the project directory.
 3. Run the Streamlit app using the following command: streamlit run main2.py
 
-FEATURES FOUND IN onPAR:
+## FEATURES FOUND IN onPAR:
 
 Map: Displays markers for each school with details like location, damage status, 
 displaced students, and resource delivery status.
